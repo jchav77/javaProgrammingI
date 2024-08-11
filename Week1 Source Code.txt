@@ -1,0 +1,13 @@
+BEGIN
+    SET fName TO "First Name"
+    SET lName TO "Last Name"
+    SET streetAddress TO "Street Address"
+    SET city TO "City"
+    SET zipCode TO "Zip Code"
+
+    PRINT fName
+    PRINT lName
+    PRINT streetAddress
+    PRINT city
+    PRINT zipCode
+END
